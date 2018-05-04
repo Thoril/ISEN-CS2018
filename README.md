@@ -50,8 +50,8 @@ Trouver un .gitignore pour un projet .net Core
 `touch .gitignore`
 Remplir ce fichier abec le contenu exemple.
 `git add .`
-`git commit` -m "initial commit, project structure"
-`git remote add origin https://GITHUB.COM:KALL2SOLLIES:isen6cs2018.git`
+`git commit -m "initial commit, project structure"`
+`git remote add origin https://github.com/Thoril/ISEN-CS2018.git`
 `git push origin master`
 Ajouter un tag de version 0.1
    

@@ -9,7 +9,7 @@ nupkg/
 # Visual Studio Code
 .vscode
 
-#InteliJ Code
+#InteliJ Rider
 .idea
 
 # User-specific files
